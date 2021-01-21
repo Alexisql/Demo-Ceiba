@@ -1,0 +1,12 @@
+
+]	java:S1259"<This block of commented-out lines of code should be removed.(¤­ ƒıÿÿÿÿ8ş…éíñ.
+X	java:S125F"<This block of commented-out lines of code should be removed.(÷´Êº8ş…éíñ.
+V
+java:S1128"4Remove this unused import 'android.app.AlertDialog'.(ª½øşüÿÿÿÿ8ğÜ€éñ.
+D
+java:S1185="(Remove this method to simply inherit it.(ºŠñ=8ş…éíñ.
+P
+java:S1128
+".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8£á‚íñ.
+u
+java:S1450"XRemove the "presenter" field and declare it as a local variable in the relevant methods.(Ï‹“Û8¨‹Âñ.
